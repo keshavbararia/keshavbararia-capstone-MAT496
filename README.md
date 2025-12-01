@@ -21,7 +21,7 @@ Installation, API keys, and LLM configuration
 
 Create analyst models and define state
 
-**[TODO] Step 3: Build Analyst Generation System**
+**[DONE] Step 3: Build Analyst Generation System**
 
 Human-in-the-loop analyst creation
 
