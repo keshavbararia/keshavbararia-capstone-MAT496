@@ -13,3 +13,20 @@ Financial news is readily available and frequently updated. This topic also acte
 
 ## Plan
 
+[DONE] Step 1: Setup & Dependencies
+Installation, API keys, and LLM configuration
+
+[TODO] Step 2: Define Data Models
+Create analyst models and define state schemas
+
+[TODO] Step 3: Build Analyst Generation System
+Human-in-the-loop analyst creation
+
+[TODO] Step 4: Implement Research & Analysis Workflow
+Multi turn question-answer research loop
+
+[TODO] Step 5: Parallel Analysis & Report Synthesis
+Using Map reduce pattern for multiple analysts
+
+[TODO] Step 6: Report Generation and Word document generation.
+Generate final report with sources and generate a word document.
