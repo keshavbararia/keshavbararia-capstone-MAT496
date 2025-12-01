@@ -17,7 +17,7 @@ Financial news is readily available and frequently updated. This topic also acte
 
 Installation, API keys, and LLM configuration
 
-**[TODO] Step 2: Define Data Models**
+**[DONE] Step 2: Define Data Models**
 
 Create analyst models and define state
 
