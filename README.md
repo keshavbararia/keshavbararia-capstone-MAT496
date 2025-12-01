@@ -19,7 +19,7 @@ Installation, API keys, and LLM configuration
 
 **[TODO] Step 2: Define Data Models**
 
-Create analyst models and define state schemas
+Create analyst models and define state
 
 **[TODO] Step 3: Build Analyst Generation System**
 
