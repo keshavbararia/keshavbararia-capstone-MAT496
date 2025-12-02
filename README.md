@@ -29,7 +29,7 @@ Human-in-the-loop analyst creation
 
 Multi turn question-answer research loop
 
-**[TODO] Step 5: Parallel Analysis & Report Synthesis**
+**[DONE] Step 5: Parallel Analysis & Report Synthesis**
 
 Using Map reduce pattern for multiple analysts
 
