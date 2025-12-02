@@ -33,6 +33,6 @@ Multi turn question-answer research loop
 
 Using Map reduce pattern for multiple analysts
 
-**[TODO] Step 6: Report Generation and Word document generation.**
+**[DONE] Step 6: Report Generation and Word document generation.**
 
 Generate final report with sources and generate a word document.
