@@ -41,3 +41,7 @@ Generate final report with sources and generate a word document.
 I had planned to achieve a fully functional multi-agent stock news analyzer system capable of generating comprehensive market insights using human-in-the-loop feedback, parallel analysis workflows, and automated report generation.
 
 I am satisfied with my project as it does generates an analysis report using latest updates using tavily.
+
+## Video Demo
+
+https://drive.google.com/file/d/1eVpo1U_hQeqFtRiHXVYsDEh8EVygefnM/view?usp=sharing
