@@ -25,7 +25,7 @@ Create analyst models and define state
 
 Human-in-the-loop analyst creation
 
-**[TODO] Step 4: Implement Research & Analysis Workflow**
+**[DONE] Step 4: Implement Research & Analysis Workflow**
 
 Multi turn question-answer research loop
 
